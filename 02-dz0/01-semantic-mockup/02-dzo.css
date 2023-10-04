@@ -1,0 +1,37 @@
+*{
+    margin:0;
+
+}
+
+.header {
+    background: red;
+    color: white;
+    text-align: center;
+}
+.nav {
+    background:coral;
+    text-align: center;
+    padding:0.4rem;
+}
+
+.nav-item {
+    color:white;
+}
+
+.main {
+    background: green;
+    color:white;
+    padding:0.6rem;
+}
+.article {
+    background:blue;
+    padding:0.5rem;
+    margin: 0.4rem;
+   
+}
+
+.footer{
+    background-color: blueviolet;
+    color:white;
+    text-align: center;
+}
